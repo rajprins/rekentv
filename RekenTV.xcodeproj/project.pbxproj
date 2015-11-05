@@ -33,8 +33,8 @@
 		B054E9B81BE53C8C0049AD52 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B054E9B91BE53C8C0049AD52 /* shuffle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = shuffle.swift; sourceTree = "<group>"; };
 		B054E9BA1BE53C8C0049AD52 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		B0CB920C1BE60398001AC9F3 /* RekenTV.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RekenTV.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		B0CB920D1BE60398001AC9F3 /* RekenTVTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RekenTVTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		B0CB920C1BE60398001AC9F3 /* RekenTV.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = RekenTV.app; path = "/Users/roy/git/rekentv/build/Debug-appletvos/RekenTV.app"; sourceTree = "<absolute>"; };
+		B0CB920D1BE60398001AC9F3 /* RekenTVTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = RekenTVTests.xctest; path = "/Users/roy/git/rekentv/build/Debug-appletvos/RekenTVTests.xctest"; sourceTree = "<absolute>"; };
 		B0E68B071BE630A70035149A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -74,8 +74,6 @@
 			isa = PBXGroup;
 			children = (
 				B054E9B31BE53C8C0049AD52 /* RekenTV */,
-				B0CB920C1BE60398001AC9F3 /* RekenTV.app */,
-				B0CB920D1BE60398001AC9F3 /* RekenTVTests.xctest */,
 			);
 			sourceTree = "<group>";
 		};
